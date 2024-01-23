@@ -1,2 +1,4 @@
-# Personal_Project-1
+# 개인 프로젝트 과제입니다.
+
+시작시 StartScene으로 시작해주세요.
  
